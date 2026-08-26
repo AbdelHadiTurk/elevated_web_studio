@@ -42,7 +42,7 @@ const PROJECTS = [
     label: "E-Commerce",
     description: "A modern women's fashion e-commerce website designed to showcase products and simplify online ordering.",
     technologies: ["HTML", "CSS", "JavaScript", "react"],
-    image: "florentino.PNG",
+    image: "public/florentino.PNG",
     website: "https://abdelhaditurk.github.io/florentino-shop",
   },
   {
@@ -51,7 +51,7 @@ const PROJECTS = [
     label: "E-Commerce",
     description: "A modern e-commerce website designed to showcase products and simplify online ordering.",
     technologies: ["HTML", "CSS", "JavaScript", "react"],
-    image: "varietes.jpg",
+    image: "public/varietes.jpg",
     website: "https://maison-variete.vercel.app",
   },
   
@@ -61,7 +61,7 @@ const PROJECTS = [
     label: "E-Commerce",
     description: "A modern e-commerce website designed to showcase products and simplify online ordering.",
     technologies: ["HTML", "CSS", "JavaScript", "react"],
-    image: "bkcandle.jpg",
+    image: "public/bkcandle.jpg",
     website: "https://www.bkcandles.org",
   },
   {
@@ -70,7 +70,7 @@ const PROJECTS = [
     label: "Website",
     description: "A modern portfolio website designed to showcase projects, services, skills, and professional work in a clean and engaging way.",
     technologies: ["React", "JavaScript"],
-    image: "roadcompass.PNG",
+    image: "public/roadcompass.PNG",
     website: "https://roadcompass.org",
 
   },
